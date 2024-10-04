@@ -31,24 +31,6 @@
 ###
 
 <p>all langs I can write</p>
-- Scratch
-- Scratch Junior
-- Python
-- Java
-- Javascript
-- Typescript
-- C
-- C++
-- C# 
-- Lua
-- Go 
-- Rust
-- Kotlin
-- R
-- Dart
-- Php 
-- Swift
-- HTML 
-- CSS 
-- SQL
-- Shell
+<ul>
+<li>Scratch</li> <li>Scratch Junior</li> <li>Python</li> <li>Java</li> <li>Javascript</li> <li>Typescript</li> <li>C</li> <li>C++</li> <li>C#</li> <li>Lua</li> <li>Go</li> <li>Rust</li> <li>Kotlin</li> <li>R</li> <li>Dart</li> <li>Php</li> <li>Swift</li> <li>HTML</li> <li>CSS</li> <li>SQL</li> <li>Shell</li>
+</ul>
