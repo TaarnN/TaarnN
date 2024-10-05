@@ -31,6 +31,8 @@
 ###
 
 <p>all langs I can write</p>
-<ul>
+<ul align="center">
 <li>Scratch</li> <li>Scratch Junior</li> <li>Python</li> <li>Java</li> <li>Javascript</li> <li>Typescript</li> <li>C</li> <li>C++</li> <li>C#</li> <li>Lua</li> <li>Go</li> <li>Rust</li> <li>Kotlin</li> <li>R</li> <li>Dart</li> <li>Php</li> <li>Swift</li> <li>HTML</li> <li>CSS</li> <li>SQL</li> <li>Shell</li>
 </ul>
+
+<p>I wanna be a full-stack developer</p>
