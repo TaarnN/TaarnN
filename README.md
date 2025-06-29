@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somchai Jaidee, Alias</h1>
-<h3 align="center">I'm thai. I'm 11 years old and I'm in grade 6.</h3>
+<h3 align="center">I'm thai. I'm 11 years old and I'm in grade 7.</h3>
 
 - 🔭 I’m currently working on [Feruliym project](https://github.com/TaarnN/Feruliym)
 
